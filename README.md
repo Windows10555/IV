@@ -1,10 +1,8 @@
 # Internet-violence
-网暴集
+网暴集 ~~其实就一个游戏~~
 
-这是一个阐述网络暴力的内容，里面会存放一些自己编制的故事或真实事例改编。
-
-第一篇来自[告死天使的审判](https://store.steampowered.com/app/1269050/Death_Angel_Trial/)。
->~~当然我现在没钱买~~，内容来自bilibili录播。
+这是一个阐述网络暴力的内容，里面会存放游戏[告死天使的审判](https://store.steampowered.com/app/1269050/Death_Angel_Trial/)的剧情。
+>~~当然我现在没钱买~~，内容来自bilibili录播BV1Tp4y1k7Pr。
 
 注：这是我个人制作项目，与Team里其他成员无关。
 >### 警告 16+
